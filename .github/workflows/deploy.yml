@@ -49,4 +49,4 @@ jobs:
           force_orphan: true
           publish_branch: gh-pages
           publish_dir: dist
-          cname: airdb.net
+          cname: wefun.org
